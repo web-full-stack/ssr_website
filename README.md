@@ -29,18 +29,17 @@ $ git clone https://github.com/web-full-stack/ssr_website.git;
 
 ```sh
 $ npm i
-$ npm run dev;
+$ yarn dev
 ```
 
 http://127.0.0.1:3000
 
-### 部署
+###  vercel 部署
 
 ```sh
 $ yarn build
 $ yarn start
 ```
 
-### demo
+https://vercel.com/xgqfrms
 
-![preview.png](https://s2.loli.net/2023/06/03/VmJ8hQXWi3TznGc.png)
