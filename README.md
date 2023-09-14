@@ -22,7 +22,7 @@ Node.js 服务端
 ### 开发
 
 ```sh
-$ git clone https://github.com/web-full-stack/zxm_website.git;
+$ git clone https://github.com/web-full-stack/ssr_website.git;
 ```
 
 修改配置目录: config/index.ts
